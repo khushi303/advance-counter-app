@@ -24,4 +24,3 @@ reset.addEventListener("click", function () {
     p.innerHTML = 0
     saved.innerHTML = 0
 })
-
